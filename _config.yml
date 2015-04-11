@@ -26,7 +26,7 @@ organizerAlternateName: "Google Developer Group Sevilla"
 organizerDescription: "Grupo sin ánimo de lucro cuyo objetivo es el de aprender e intercambiar conocimientos y experiencias acerca de las tecnologías proporcionadas por Google."
 organizerEmail: ""
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://plus.google.com/u/0/b/117186888160178861350/117186888160178861350/about"
+organizerLink: "https://plus.google.com/117186888160178861350/about"
 
 # Head
 metaKeywords: "event, gdg, google, android, developers, sevilla, desarrollo"
@@ -110,11 +110,12 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Partners Block
 organizersTitle: "Organizan"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Unete a nostros"
+c4sponsorsUrl: "mailto:androidxtended@gmail.com"
 
 # Tickets Block
 ticketsTitle: "Precio"
-ticketsInfo: "El ticket te da acceso al todas las charlas y talleres."
+ticketsInfo: "El ticket te da acceso a todas las charlas y talleres."
 ticketsOffers:
 -
   name: "Xtended"
@@ -124,7 +125,7 @@ ticketsOffers:
   buyButtonLink: "https://www.ticketea.com/androidxtended/"
   buyButtonText: "Comprar"
   additionalInfo: ""
-  ticketContentList: ["Accede a todas las charlas", "y talleres", "Son muy limitadas"]
+  ticketContentList: ["Accede a todas las charlas y talleres", "Conoce a otros profesionales del sector", "Son muy limitadas"]
   validFrom: "2015-04-01T10:00"
   validThrough: "2015-05-12T23:59"
   soldOut: false
@@ -132,20 +133,20 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/117186888160178861350/about", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGSevilla", icon: "twitter"}
+ - {link: "https://www.facebook.com/pages/Sevilla-GDG/198294916872055", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Links"
+  title: "Enlaces"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://plus.google.com/117186888160178861350/", text: "GDG Sevilla"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Contactar"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:androidXtended@gmail.com", text: "androidXtended@gmail.com"}
  -
   title: "FAQ"
   links:

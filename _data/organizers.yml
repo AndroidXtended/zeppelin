@@ -1,8 +1,8 @@
 - 
   group: "Principal organizador"
   elements: 
-    - {name: "GDG Sevilla", description: "GDG Sevilla - Compartiendo conocimiento sobre nuevas tecnologías en la ciudad de Sevilla", link: "https://plus.google.com/117186888160178861350/posts/", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Sevilla", description: "GDG Sevilla - Compartiendo conocimiento sobre nuevas tecnologías en la ciudad de Sevilla", link: "https://plus.google.com/117186888160178861350/posts/", imageUrl: "gdg_sevilla.png"}
 - 
-  group: "Co-organiadores"
+  group: "Co-organizadores"
   elements: 
-    - {name: "Espacio RES", description: "Innovacion social = (Startups + Tecnolgia) * Creatividad", link: "http://espacio-res.org", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "Espacio RES", description: "Innovacion social = (Startups + Tecnolgia) * Creatividad", link: "http://espacio-res.org", imageUrl: "logo-res-gris.png"}

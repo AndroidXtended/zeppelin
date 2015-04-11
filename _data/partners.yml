@@ -1,4 +1,4 @@
 -
-  group: "With support of"
+  group: "Con el apoyo de"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
