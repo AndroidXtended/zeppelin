@@ -11,7 +11,7 @@
   service: true
 -
   id: 001
-  title: "Título de la charla: Android, The Clean Way"
+  title: "Android, The Clean Way"
   description: "Software mantenible y testeable, startups que pivotan constantemente, aplicaciones que llegan a ser mucho más de lo que se planifico en su principio... Si trabajas en producto todo esto te sonara y los problemas que genera. En la Clean Architecture he encontrado una solución a esta realidad en la creación de productos software y te contaremos como lo estamos haciendo para las nuevas versiones de la app de Jobandtalent."
   subtype: presentation
   speakers: [3]
