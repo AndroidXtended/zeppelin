@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Anroid Xtended"
 email: "androidxtended@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: ""
+baseurl: "/zeppelin"
 url: "http://androidXtended.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-61791444-1"
