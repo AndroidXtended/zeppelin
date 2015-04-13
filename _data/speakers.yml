@@ -50,3 +50,15 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+JorgeJBarroso"}
     - {name: "twitter", link: "https://twitter.com/flipper83"}
+-
+  id: 7
+  name: "Android Xtended"
+  surname: ""
+  company: "GDG Sevilla"
+  title: ""
+  bio: ""
+  thumbnailUrl: GDG_square_lg_right.svg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/117186888160178861350/"}
+    - {name: "twitter", link: "https://twitter.com/GDGSevilla"}
