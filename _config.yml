@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Anroid Xtended"
+title: "Android Xtended"
 email: "androidxtended@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
