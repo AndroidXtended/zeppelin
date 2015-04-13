@@ -45,33 +45,33 @@
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
 -
   id: 010
-  title: "Codigo 1"
-  description: "Descripcion de codigo 1"
+  title: "Mob programming Inyección de dependencias"
+  description: "Descripcion de Mob programming 1"
   subtype: workshop
-  speakers: [6]
+  speakers: [7]
   language: es
   complexity: "Intermediate"
 -
   id: 011
-  title: "Codigo 2"
-  description: "Descripcion de codigo 2"
+  title: "Mob programming Testing"
+  description: "Descripcion de Mob programming 2"
   subtype: workshop
-  speakers: [6]
+  speakers: [7]
   language: es
   complexity: "Intermediate"
 -
   id: 012
-  title: "Codigo 3"
-  description: "Descripcion de codigo 3"
+  title: "Mob programming Gradle"
+  description: "Descripcion de Mob programming 3"
   subtype: workshop
-  speakers: [6]
+  speakers: [7]
   language: es
   complexity: "Intermediate"
 -
   id: 013
-  title: "Codigo 4"
-  description: "Descripcion de codigo 4"
+  title: "Mob programming Views en lugar de Fragments"
+  description: "Descripcion de Mob programming 4"
   subtype: workshop
-  speakers: [6]
+  speakers: [7]
   language: es
   complexity: "Intermediate"
