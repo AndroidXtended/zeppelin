@@ -58,7 +58,7 @@
   title: ""
   bio: "Esto será una sesión de <a href='http://en.wikipedia.org/wiki/Mob_programming'>mob programming</a>. No te olvides de traer tu portátil para que puedas aprovechar al máximo la sesión."
   thumbnailUrl: GDG_square_lg_right.svg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "google-plus", link: "https://plus.google.com/117186888160178861350/"}
     - {name: "twitter", link: "https://twitter.com/GDGSevilla"}

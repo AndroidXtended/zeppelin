@@ -38,6 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
@@ -69,7 +70,7 @@ statisticBlock:
  - {count: "4", specialCharacter: "+", info: "ponentes", detail: "de aqui y de allí"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -105,13 +106,13 @@ venueFeatures: ["6 magnificas terrazas", "Amplio espacio para los asistentes", "
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.png"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "AndroidDev"
-twitterFeed: "http://androidxtended-gdgsevilla.rhcloud.com/tweetledee/searchjson.php?q=androidDev"
+twitterHashTag: "AndroidXtd"
+twitterFeed: "http://androidxtended-gdgsevilla.rhcloud.com/tweetledee/searchjson.php?q=androidxtd"
 
 # Partners Block
 organizersTitle: "Organizan"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Unete a nosotros"
+partnersC4sponsorsButton: "Únete a nosotros"
 c4sponsorsUrl: "mailto:androidxtended@gmail.com"
 
 # Tickets Block
@@ -156,9 +157,9 @@ footerBlocks:
    - {permalink: "/cod/", text: "Código de Conducta"}
 
 # Blog
-blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+blogTitle: "Últimas noticias"
+blogCommentsEnabled: false
+discusShortName: "AndroidXtended"
 
 # Speakers List Block
 showSessions: true
