@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Android Xtended"
 email: "contacto@androidxtended.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "Un dia entero para compartir y aprender sobre Android"
 baseurl: ""
 url: "http://androidXtended.com/"
 permalink: "/blog/:title"
@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://plus.google.com/117186888160178861350/about"
 
 # Head
-metaKeywords: "event, gdg, google, android, developers, sevilla, desarrollo"
+metaKeywords: "android, evento, gdg, google, android, developers, sevilla, desarrollo, event"
 twitterAccount: "@GDGSevilla"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"

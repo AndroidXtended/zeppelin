@@ -20,7 +20,8 @@
 -
   id: 002
   title: "Cosas a tener en cuenta si dices ser desarrollador Android"
-  description: "Intro sobre Tech&Ladies. Enumeración de herramientas a usar y algunos trucos de Android Studio. Cosas de diseño a tener en cuenta y más si no tienes diseñador. Naming de código en Android. Librerías que has de conocer. Poner en práctica algunas de estos conceptos bajo código(cualquier aplicación de Google open source puede valer para esto)"
+  description: "Enumeración de herramientas a usar y algunos trucos de Android Studio. Cosas de diseño a tener en cuenta y más si no tienes diseñador. Naming de código en Android. Librerías
+  que has de conocer. Poner en práctica algunas de estos conceptos bajo código(cualquier aplicación de Google open source puede valer para esto)."
   subtype: presentation
   speakers: [4]
   language: es
@@ -29,15 +30,15 @@
 -
   id: 003
   title: "Effective Android UI"
-  description: " Trabajar sobre activities, fragments, layouts o views puede ser un trabajo arduo y doloroso. Aplicar buenas prácticas, no cometer los errores más típicos, cuándo y cómo hacer una custom view o qué patrones aplicar (MVP o MVVM) para mejorar la calidad del código sobre el que trabajamos serán algunos de los temas a tratar a lo largo de esta charla."
+  description: "Trabajar sobre activities, fragments, layouts o views puede ser un trabajo arduo y doloroso. Aplicar buenas prácticas, no cometer los errores más típicos, cuándo y cómo hacer una custom view o qué patrones aplicar (MVP o MVVM) para mejorar la calidad del código sobre el que trabajamos serán algunos de los temas a tratar a lo largo de esta charla."
   subtype: presentation
   speakers: [5]
   language: es
   complexity: "Intermedia" 
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "Título Provisional"
+  description: "Formas de guardar información, algunos frameworks interesantes que usar y cuando usarlos, cómo enmascarar el accesso a datos y cómo trabajar en modo sin conexión."
   subtype: keynote
   speakers: [6]
   language: es
@@ -46,7 +47,7 @@
 -
   id: 010
   title: "Mob programming Inyección de dependencias"
-  description: "En esta sesión trataremos de aplicar DI a un código existente. Buscaremos las diferentes responsabilidades que tienen las clases, y veremos como separarlas aplicando DI"
+  description: "En esta sesión trataremos de aplicar DI a un código existente. Buscaremos las diferentes responsabilidades que tienen las clases, y veremos como separarlas aplicando DI."
   subtype: workshop
   speakers: [7]
   language: es
@@ -71,7 +72,9 @@
 -
   id: 013
   title: "The Secrets to App Success on Google Play"
-  description: "A guide to useful features, tips, and best practices that will help you grow a successful app business on Google Play. Readability: The guide is most easily read in the Google Play Books app with your device in landscape orientation and the single-page view enabled in the settings. Publishing your app on Google Play is a good start to reaching users but is only the first step if you want to grow a thriving, sustainable app business. That’s why we've written a guide, called “The Secrets to App Success on Google Play”, a detailed playbook on the best practices and tools you can use to maximize the reach, retention, and revenue of your new app. Thanks for the feedback about the format. We'll take that into account for future editions"
+  description: "A guide to useful features, tips, and best practices that will help you grow a successful app business on Google Play. Readability: The guide is most easily read in the Google Play Books app with your
+  device in landscape orientation and the single-page view enabled in the settings. Publishing your app on Google Play is a good start to reaching users but is only the first step if you want to grow a thriving,
+  sustainable app business. That’s why we've written a guide, called “The Secrets to App Success on Google Play”, a detailed playbook on the best practices and tools you can use to maximize the reach, retention, and revenue of your new app. Thanks for the feedback about the format. We'll take that into account for future editions."
   subtype: presentation
   speakers: [8]
   language: es
