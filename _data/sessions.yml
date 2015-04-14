@@ -37,7 +37,7 @@
   complexity: "Intermedia" 
 -
   id: 004
-  title: "Título Provisional"
+  title: "Persistiendo que es gerundio"
   description: "Formas de guardar información, algunos frameworks interesantes que usar y cuando usarlos, cómo enmascarar el accesso a datos y cómo trabajar en modo sin conexión."
   subtype: keynote
   speakers: [6]
