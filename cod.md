@@ -20,7 +20,7 @@ Hagamos de este evento algo increíble ;-)
 
 ######Contacts:
 
-- Israel Boza, [androidXtended@gmail.com](mailto:androidXtended@gmail.com)
-- David Rodriguez, [davidrg131092@gmail.com](mailto:davidrg131092@gmail.com)
+- Israel Boza, [isra@androidxtended.com](mailto:isra@androidxtended.com)
+- David Rodriguez, [david@androidxtended.com](mailto:david@androidxtended.com)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">

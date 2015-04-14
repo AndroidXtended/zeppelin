@@ -18,4 +18,4 @@ trabajar en grupo. Trataremos temáticas de buenas practicas, testing, gradle...
 Usaremos siempre la misma app para todos los ejercicios, asi que te recomendamos que te bajes el [código fuente de Sunshine](https://github.com/AndroidXtended/Sunshine) para que no perder el tiempo el día del evento. 
 
 
-#### Alguna pregunta? Ponte en contacto con nosotros en [androidXtended@gmail.com](mailto:androidXtended@gmail.com) o a través de twitter <b>#AndroidXtd</b>
+#### Alguna pregunta? Ponte en contacto con nosotros en [contacto@androidXtended.com](mailto:contacto@androidXtended.com) o a través de twitter <b>#AndroidXtd</b>

@@ -11,14 +11,14 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Android Xtended"
-email: "androidxtended@gmail.com"
+email: "contacto@androidxtended.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
-url: "http://androidxtended-gdgsevilla.rhcloud.com/"
+url: "http://androidXtended.com/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-61791444-1"
-googleAnalyticsSiteUrl: "androidXtended.github.io"
-siteVerification: "Caq2-xsDPzUculk5uu_W9bqnCPCaq-TDEFq1KZuvFKM"
+googleAnalyticsSiteUrl: "androidXtended.com"
+siteVerification: "Ay_dR1jYty54q786TpnGMfFLKf0FpgroITTnw1TmTv4"
 
 # Organizer Info
 organizerName: "GDG Sevilla"
@@ -113,7 +113,7 @@ twitterFeed: "http://androidxtended-gdgsevilla.rhcloud.com/tweetledee/searchjson
 organizersTitle: "Organizan"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Únete a nosotros"
-c4sponsorsUrl: "mailto:androidxtended@gmail.com"
+c4sponsorsUrl: "mailto:contacto@androidXtended.com"
 
 # Tickets Block
 ticketsTitle: "Precio"
@@ -150,7 +150,7 @@ footerBlocks:
  -
   title: "Contactar"
   links:
-   - {link: "mailto:androidXtended@gmail.com", text: "androidXtended@gmail.com"}
+   - {link: "mailto:contacto@androidXtended.com", text: "contacto@androidXtended.com"}
  -
   title: "FAQ"
   links:

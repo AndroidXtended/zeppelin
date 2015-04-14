@@ -16,7 +16,7 @@
   subtype: presentation
   speakers: [3]
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 002
   title: "Cosas a tener en cuenta si dices ser desarrollador Android"
@@ -24,7 +24,7 @@
   subtype: presentation
   speakers: [4]
   language: es
-  complexity: "Intermediate" 
+  complexity: "Intermedia" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 003
@@ -33,7 +33,7 @@
   subtype: presentation
   speakers: [5]
   language: es
-  complexity: "Intermediate" 
+  complexity: "Intermedia" 
 -
   id: 004
   title: "Polymer: Interacting with Google Services using nothing but HTML"
@@ -41,24 +41,25 @@
   subtype: keynote
   speakers: [6]
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
 -
   id: 010
   title: "Mob programming Inyección de dependencias"
-  description: "Descripcion de Mob programming 1"
+  description: "En esta sesión trataremos de aplicar DI a un código existente. Buscaremos las diferentes responsabilidades que tienen las clases, y veremos como separarlas aplicando DI"
   subtype: workshop
   speakers: [7]
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 011
   title: "Mob programming Testing"
-  description: "Descripcion de Mob programming 2"
+  description: "Escribiremos tanto tests al estilo de BDD (concentrandonos en el valor de negocio y tratando la app como una caja negra), como tests que se aislan del framework de Android y pueden correr como
+  tests normales en Java."
   subtype: workshop
   speakers: [7]
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 012
   title: "Mob programming Gradle"
@@ -66,7 +67,7 @@
   subtype: workshop
   speakers: [7]
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 013
   title: "Mob programming Views en lugar de Fragments"
@@ -74,4 +75,4 @@
   subtype: workshop
   speakers: [7]
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedia"
