@@ -63,16 +63,16 @@
 -
   id: 012
   title: "Mob programming Gradle"
-  description: "Descripcion de Mob programming 3"
+  description: "Veremos cómo hacer que Gradle automatice tareas. Entre ellas estarán la firma del APK o excluir ficheros de posibles librerías que empleemos."
   subtype: workshop
   speakers: [7]
   language: es
   complexity: "Intermedia"
 -
   id: 013
-  title: "Mob programming Views en lugar de Fragments"
-  description: "Descripcion de Mob programming 4"
-  subtype: workshop
-  speakers: [7]
+  title: "The Secrets to App Success on Google Play"
+  description: "A guide to useful features, tips, and best practices that will help you grow a successful app business on Google Play. Readability: The guide is most easily read in the Google Play Books app with your device in landscape orientation and the single-page view enabled in the settings. Publishing your app on Google Play is a good start to reaching users but is only the first step if you want to grow a thriving, sustainable app business. That’s why we've written a guide, called “The Secrets to App Success on Google Play”, a detailed playbook on the best practices and tools you can use to maximize the reach, retention, and revenue of your new app. Thanks for the feedback about the format. We'll take that into account for future editions"
+  subtype: presentation
+  speakers: [8]
   language: es
   complexity: "Intermedia"

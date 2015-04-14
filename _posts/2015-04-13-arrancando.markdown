@@ -6,11 +6,11 @@ isStaticPost: false
 ---
 
 Por fin podemos comentar lo que llevamos un tiempo organizando desde el [GDGSevilla](https://plus.google.com/communities/114997118727600981533). Un día entero sobre desarrollo en Android en una localización 
-inmejorable. Tendremos un par de charlas, seguidas de un par de talleres y después de la pausa para el almuerzo invertiremos el orden, dos talleres más y terminaremos con dos charlas.
+inmejorable. Tendremos un par de charlas, seguidas de un par de talleres y después de la pausa para el almuerzo invertiremos el orden, un taller más y terminaremos con tres charlas.
 
 
 #### Charlas
-Tendremos 4 charlas a lo largo del día (estamos trabajando para que sean 5), con la suerte de que serán impartidas por gente muy puntera en la industria.
+Tendremos 5 charlas a lo largo del día, con la suerte de que serán impartidas por gente muy puntera en la industria.
 
 #### Talleres - Mob Programming
 No te dejes el portátil en casa porque en este evento vas a tener la oportunidad de usarlo. Partiendo de una variación de [Mob Programming](http://en.wikipedia.org/wiki/Mob_programming) propondremos unos ejercicios para 

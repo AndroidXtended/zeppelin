@@ -62,3 +62,15 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/117186888160178861350/"}
     - {name: "twitter", link: "https://twitter.com/GDGSevilla"}
+-
+  id: 8
+  name: "Andrés Leonardo"
+  surname: "Martinez Ortiz"
+  company: "Google"
+  title: "Developer Program Manager"
+  bio: "Andrés Leonardo Martínez Ortiz pertenece al Grupo de Ingeniería de Google, cuya labor se centra en comunicar, trasladar, formar y enseñar la posibilidades que ofrece la tecnología de Google. Con amplia experiencia en sectores de I+D+i relacionados con las Telecomunicaciones y la Ingeniería del Software, ha estado siempre trabajando en el desarrollo, la transferencia y la promoción de tecnologías innovadoras. Ha participado en la mayoría de las etapas de I+D+i, incluyendo desarrollo de software, gestión de proyectos, definición de producto, marketing y desarrollo de negocio, y de hecho fundó un par de startups. Estuvo algún tiempo trabajando en Telefónica I+D y también fue profesor de la universidad Rey Juan Carlos, donde enseñaba sistemas distribuidos, sistemas embebidos, robótica y programación. Durante todo ese tiempo, se centró en las estrategias, planificación e implementación de proyectos de innovación profundamente relacionados con los paradigmas de las tecnologías de código abierto, en los que las comunidades de desarrolladores y terceras partes juegan un papel importante. En particular, en los últimos cinco años ha estado diseñando estrategias para fomentar la participación de estudiantes universitarios, empresarios y PYMEs en las nuevas tecnologías. Es miembro de comunidades científicas como la ACM o el IEEE Computer Society."
+  thumbnailUrl: AndresLeonardo.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/davilagrau"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/aleonar"}

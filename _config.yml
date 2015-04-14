@@ -67,14 +67,14 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "40", specialCharacter: "+", info: "asistentes", detail: "de toda Andalucia"}
  - {count: "12", specialCharacter: "+", info: "horas", detail: "de toneladas de información"}
- - {count: "4", specialCharacter: "+", info: "ponentes", detail: "de aqui y de allí"}
+ - {count: "5", specialCharacter: "+", info: "ponentes", detail: "de aqui y de allí"}
 
 # Latest News Block
 latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 5
 rockstarSpeakersTitle: "Nuestros ponentes"
 rockstarSpeakersButtonText: "Ver más"
 
