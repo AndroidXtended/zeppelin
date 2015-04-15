@@ -108,6 +108,8 @@ tweetsFeedImage: "twitter-feed.png"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "AndroidXtd"
 twitterFeed: "http://www.androidxtended.com/tweetledee/searchjson.php?q=androidxtd"
+twitterHashTag: "AndroidXtended"
+twitterFeed: "http://androidxtended-gdgsevilla.rhcloud.com/tweetledee/searchjson.php?q=androidxtended"
 
 # Partners Block
 organizersTitle: "Organizan"
