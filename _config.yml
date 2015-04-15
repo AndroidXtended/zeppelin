@@ -106,10 +106,8 @@ venueFeatures: ["6 magnificas terrazas", "Amplio espacio para los asistentes", "
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.png"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "AndroidXtd"
-twitterFeed: "http://www.androidxtended.com/tweetledee/searchjson.php?q=androidxtd"
 twitterHashTag: "AndroidXtended"
-twitterFeed: "http://androidxtended-gdgsevilla.rhcloud.com/tweetledee/searchjson.php?q=androidxtended"
+twitterFeed: "http://www.androidxtended.com/tweetledee/searchjson.php?q=androidxtd+OR+androidxtnd+OR+androidxtended+OR+androidxtened"
 
 # Partners Block
 organizersTitle: "Organizan"
