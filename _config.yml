@@ -131,8 +131,8 @@ ticketsOffers:
   ticketContentList: ["Accede a todas las charlas y talleres", "Conoce a otros profesionales del sector", "Solo 40 plazas en total"]
   validFrom: "2015-04-16T10:00"
   validThrough: "2015-05-12T23:59"
-  disabled: true
-  soldOut: false
+  disabled: false
+  soldOut: true
   soldOutText: "Agotadas!"
 
 # Footer
