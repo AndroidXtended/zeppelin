@@ -139,12 +139,27 @@ ticketsOffers:
   buyButtonLink: "https://www.ticketea.com/androidxtended/"
   buyButtonText: "Comprar"
   additionalInfo: ""
-  featured: true
   ticketContentList: ["Accede a todas las charlas y talleres", "Conoce a otros profesionales del sector", "Solo 40 plazas en total"]
   validFrom: "2015-04-16T10:00"
   validThrough: "2015-05-12T23:59"
   disabled: false
   soldOut: true
+  soldOutText: "Agotadas!"
+
+-
+  name: "Xtended Bitnami"
+  price: "10"
+  priceCurrency: "EUR"
+  ticketsNumber: "50"
+  buyButtonLink: "https://www.ticketea.com/androidxtended/"
+  buyButtonText: "Comprar"
+  additionalInfo: ""
+  featured: true
+  ticketContentList: ["Accede a todas las charlas y talleres en la Sede de Bitnami", "Consulta la agenda para ver los cambios", "Solo 50 plazas!!!!"]
+  validFrom: "2015-04-29T20:00"
+  validThrough: "2015-05-12T23:59"
+  disabled: true
+  soldOut: false
   soldOutText: "Agotadas!"
 
 # Footer
