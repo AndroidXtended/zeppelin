@@ -65,7 +65,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "40", specialCharacter: "+", info: "asistentes", detail: "de toda Andalucia"}
+ - {count: "100", specialCharacter: "+", info: "asistentes", detail: "de toda Andalucia"}
  - {count: "12", specialCharacter: "+", info: "horas", detail: "de toneladas de información"}
  - {count: "5", specialCharacter: "+", info: "ponentes", detail: "de aqui y de allí"}
 
@@ -83,6 +83,9 @@ locationBlockTitle: "Dónde?"
 eventLocationName: "Espacio res"
 eventLocationLink: "http://espaciores.org/"
 eventStreetAddress: "Avenida República Argentina, 25"
+eventLocationName2: "Bitnami"
+eventLocationLink2: "http://bitnami.com/"
+eventStreetAddress2: "Avenida República Argentina, 31B"
 eventAddressLocality: "Sevilla"
 eventAddressLocalityRegion: "Sevilla"
 eventPostalCode: "41011"
@@ -95,13 +98,22 @@ mapCenterCoordinates: "37.377736,-6.001971"
 mapMobileCenterCoordinates: "37.377736,-6.001971"
 
 # Venue Block
-venueBlockTitle: "Lugar"
+venueBlockTitle: "Sede Espacio res"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Espacio res"
 venueFeatures: ["6 magnificas terrazas", "Amplio espacio para los asistentes", "Muy bien comunicado"]
+
+# Venue2 Block
+venueBlockTitle2: "Sede Bitnami"
+venueBigImage2: "venue_02.jpg"
+venueSmallImage12: "venue_12.jpg"
+venueSmallImage22: "venue_22.jpg"
+venueSmallImage32: "venue_32.jpg"
+venueTitle2: "Bitnami"
+venueFeatures2: ["makes it incredibly easy to deploy apps with native installers",  "as virtual machines, or in the cloud", " y desde Sevilla!"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.png"
