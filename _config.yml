@@ -158,7 +158,7 @@ ticketsOffers:
   ticketContentList: ["Accede a todas las charlas y talleres en la Sede de Bitnami", "Consulta la agenda para ver los cambios", "Solo 50 plazas!!!!"]
   validFrom: "2015-04-29T20:00"
   validThrough: "2015-05-12T23:59"
-  disabled: true
+  disabled: false
   soldOut: false
   soldOutText: "Agotadas!"
 
